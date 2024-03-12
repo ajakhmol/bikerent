@@ -10,15 +10,15 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 - Creating a multivariate linear regression by Full Manual feature selection and RFE with manual feature selection.
+- 
 -The business wants:
-- Which variables are significant in predicting the demand for shared bikes?
-- How well those variables describe the bike demands?
+  1. Which variables are significant in predicting the demand for shared bikes?
+  2. How well those variables describe the bike demands?
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -35,10 +35,6 @@
 - Python 3.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- 
 
 
 ## Contact
